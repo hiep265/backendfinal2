@@ -1,0 +1,10 @@
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+using API.MCP.Configuration;
+using API.MCP.Services;
+using ModelContextProtocol.Server;
+
+namespace API.MCP.Extensions
+{
+    public static class AIServicesExtension
+    {

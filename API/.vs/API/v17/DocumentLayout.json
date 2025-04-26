@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\mcp\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\controllers\\llmconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\controllers\\llmconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\mcp\\services\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\services\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\controllers\\mcpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\controllers\\mcpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\mcp\\services\\llmmcpserverexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\services\\llmmcpserverexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\mcp\\extensions\\mcptoolsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\extensions\\mcptoolsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\mcp\\configuration\\mcpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\configuration\\mcpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\controllers\\mcpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\controllers\\mcpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\mcp\\mcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\mcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\bahie\\onedrive\\desktop\\apinew\\api\\api\\data\\dataconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\data\\dataconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "API\\ApplicationServicesExtension.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "API\\ApplicationServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:51:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Services\\GeminiService.cs",
+              "RelativeToolTip": "API\\MCP\\Services\\GeminiService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:39:21.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T15:11:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LLMConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\LLMConfigController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LLMConfigController.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\LLMConfigController.cs",
+              "RelativeToolTip": "API\\Controllers\\LLMConfigController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:02:09.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LLMMcpServerExchange.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "RelativeToolTip": "API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:33:27.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LLMService.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Services\\LLMService.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Services\\LLMService.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Services\\LLMService.cs",
+              "RelativeToolTip": "API\\MCP\\Services\\LLMService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:32:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "McpToolsExtension.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Extensions\\McpToolsExtension.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Extensions\\McpToolsExtension.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Extensions\\McpToolsExtension.cs",
+              "RelativeToolTip": "API\\MCP\\Extensions\\McpToolsExtension.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:47:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "McpConfig.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Configuration\\McpConfig.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Configuration\\McpConfig.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\Configuration\\McpConfig.cs",
+              "RelativeToolTip": "API\\MCP\\Configuration\\McpConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:47:07.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "McpClient.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\McpClient.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\McpClient.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\MCP\\McpClient.cs",
+              "RelativeToolTip": "API\\MCP\\McpClient.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:18:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "McpClientController.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\McpClientController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\McpClientController.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\McpClientController.cs",
+              "RelativeToolTip": "API\\Controllers\\McpClientController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:10:07.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "McpController.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\McpController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\McpController.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\McpController.cs",
+              "RelativeToolTip": "API\\Controllers\\McpController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:09:51.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "API\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAcwKYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:00:11.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T16:49:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataConnector.cs",
+              "DocumentMoniker": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Data\\DataConnector.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DataConnector.cs",
+              "ToolTip": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\Data\\DataConnector.cs",
+              "RelativeToolTip": "API\\Data\\DataConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:46:49.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

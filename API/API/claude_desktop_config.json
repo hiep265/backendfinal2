@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "api-server": {
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "API/API/API.csproj",
+                "--no-build"
+            ]
+        }
+    }
+} 
