@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iVEnOUjWyHNGC6Z7KARoOHt8v9PBFTOL6vAMQxzWRUE=",
+  "Hash": "ZkXxXT+OgEFrZWxbGH6qv4EaDam47z3YFYoFW4dms4A=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -122,27 +122,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\themify-icons.css"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/fonts/FontAwesome#[.{fingerprint}]?.otf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "sgabxu717i",
-      "Integrity": "RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
-    },
-    {
       "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -246,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/fonts/FontAwesome#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sgabxu717i",
+      "Integrity": "RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
       "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
@@ -1983,88 +1983,6 @@
       ]
     },
     {
-      "Route": "assets/fonts/FontAwesome.otf",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134808"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/otf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
-        }
-      ]
-    },
-    {
-      "Route": "assets/fonts/FontAwesome.sgabxu717i.otf",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134808"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/otf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sgabxu717i"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/fonts/FontAwesome.otf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
-        }
-      ]
-    },
-    {
       "Route": "assets/fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
       "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "Selectors": [],
@@ -2471,6 +2389,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/FontAwesome.otf",
+      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/FontAwesome.sgabxu717i.otf",
+      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgabxu717i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/FontAwesome.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
         }
       ]
     },

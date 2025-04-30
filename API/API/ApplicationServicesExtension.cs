@@ -18,6 +18,7 @@ using Microsoft.AspNetCore.Identity;
 using System.Collections.Generic;
 using FluentValidation;
 using AutoMapper;
+using Microsoft.AspNetCore.Hosting;
 namespace API.Extensions
 {
     public static class ApplicationServicesExtension
@@ -119,8 +120,22 @@ namespace API.Extensions
             services.AddScoped<IValidator<CredentialsViewModel>, CredentialsViewModelValidator>();
             services.AddScoped<IValidator<RegistrationViewModel>, RegistrationViewModelValidator>();
 
-            // Add automapper
-            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            // Add automapper with customized configuration to avoid char mapping issues
+            services.AddAutoMapper(cfg =>
+{
+    // Cho phép ánh xạ null cho collection
+    cfg.AllowNullCollections = true;
+
+    // Tắt ánh xạ cho constructor
+    cfg.DisableConstructorMapping();
+
+    // Cấu hình để bỏ qua các thuộc tính kiểu char nếu không cần thiết
+    cfg.ForAllPropertyMaps(pm => pm.SourceType == typeof(char), (pm, options) =>
+    {
+        options.Ignore(); // Bỏ qua ánh xạ cho các thuộc tính kiểu char
+    });
+
+}, typeof(IStartup).Assembly);
 
             return services;
         }

@@ -36,7 +36,7 @@ builder.Services.AddIdentityServices(builder.Configuration);
 builder.Services.AddAllMcpTools(builder.Configuration);
 
 // Add AI Services from extension method
-builder.Services.AddAIServices(builder.Configuration);
+// builder.Services.AddAIServices(builder.Configuration);
 
 // Register McpClient
 builder.Services.AddScoped<IMcpClient>(provider => {
