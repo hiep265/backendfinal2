@@ -28,21 +28,21 @@ namespace API.MCP
         }
 
         // Phương thức này sẽ phân tích yêu cầu của người dùng và quyết định công cụ MCP nào sẽ được sử dụng
-        public async Task<object> ProcessUserRequest(string userQuery)
-        {
-            try
-            {
-                // Phân tích yêu cầu người dùng để xác định loại yêu cầu
-                var requestType = await AnalyzeRequestType(userQuery);
+        // public async Task<object> ProcessUserRequest(string userQuery)
+        // {
+        //     try
+        //     {
+        //         // Phân tích yêu cầu người dùng để xác định loại yêu cầu
+        //         var requestType = await AnalyzeRequestType(userQuery);
                 
-                // Dựa vào loại yêu cầu, gọi công cụ MCP tương ứng
-                return await ExecuteMcpTool(requestType, userQuery);
-            }
-            catch (Exception ex)
-            {
-                return new { success = false, error = ex.Message };
-            }
-        }
+        //         // Dựa vào loại yêu cầu, gọi công cụ MCP tương ứng
+        //         // return await ExecuteMcpTool(requestType, userQuery);
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         return new { success = false, error = ex.Message };
+        //     }
+        // }
 
         // Phân tích yêu cầu người dùng để xác định sử dụng công cụ nào
         private async Task<string> AnalyzeRequestType(string userQuery)
@@ -101,67 +101,67 @@ namespace API.MCP
         }
 
         // Thực thi công cụ MCP phù hợp dựa trên phân loại yêu cầu
-        private async Task<object> ExecuteMcpTool(string requestType, string userQuery)
-        {
-            switch (requestType)
-            {
-                case "product_search":
-                    return await _mcpClient.CallTool("searchproducts", new Dictionary<string, object>
-                    {
-                        { "query", await ExtractSearchQuery(userQuery) }
-                    });
+        // private async Task<object> ExecuteMcpTool(string requestType, string userQuery)
+        // {
+        //     switch (requestType)
+        //     {
+        //         case "product_search":
+        //             return await _mcpClient.CallTool("searchproducts", new Dictionary<string, object>
+        //             {
+        //                 { "query", await ExtractSearchQuery(userQuery) }
+        //             });
 
-                case "product_recommend":
-                    // Phân tích xem đang yêu cầu gợi ý dựa trên sản phẩm hay người dùng
-                    if (userQuery.Contains("tương tự") || userQuery.Contains("giống"))
-                    {
-                        var productId = ExtractProductId(userQuery);
-                        return await _mcpClient.CallTool("findsimilarproducts", new Dictionary<string, object>
-                        {
-                            { "productId", productId },
-                            { "limit", 5 }
-                        });
-                    }
-                    else
-                    {
-                        var userId = ExtractUserId(userQuery);
-                        return await _mcpClient.CallTool("recommendforuser", new Dictionary<string, object>
-                        {
-                            { "userId", userId },
-                            { "limit", 5 }
-                        });
-                    }
+        //         case "product_recommend":
+        //             // Phân tích xem đang yêu cầu gợi ý dựa trên sản phẩm hay người dùng
+        //             if (userQuery.Contains("tương tự") || userQuery.Contains("giống"))
+        //             {
+        //                 var productId = ExtractProductId(userQuery);
+        //                 return await _mcpClient.CallTool("findsimilarproducts", new Dictionary<string, object>
+        //                 {
+        //                     { "productId", productId },
+        //                     { "limit", 5 }
+        //                 });
+        //             }
+        //             else
+        //             {
+        //                 var userId = ExtractUserId(userQuery);
+        //                 return await _mcpClient.CallTool("recommendforuser", new Dictionary<string, object>
+        //                 {
+        //                     { "userId", userId },
+        //                     { "limit", 5 }
+        //                 });
+        //             }
 
-                case "review_analysis":
-                    var productIdForReview = ExtractProductId(userQuery);
-                    return await _mcpClient.CallTool("analyzeproductreviews", new Dictionary<string, object>
-                    {
-                        { "productId", productIdForReview }
-                    });
+        //         case "review_analysis":
+        //             var productIdForReview = ExtractProductId(userQuery);
+        //             return await _mcpClient.CallTool("analyzeproductreviews", new Dictionary<string, object>
+        //             {
+        //                 { "productId", productIdForReview }
+        //             });
 
-                case "market_trend":
-                    return await _mcpClient.CallTool("analyzeproducttrends", new Dictionary<string, object>
-                    {
-                        { "daysLookback", 30 }
-                    });
+        //         case "market_trend":
+        //             return await _mcpClient.CallTool("analyzeproducttrends", new Dictionary<string, object>
+        //             {
+        //                 { "daysLookback", 30 }
+        //             });
 
-                case "content_generation":
-                    return await _mcpClient.CallTool("generateproductdescription", new Dictionary<string, object>
-                    {
-                        { "productId", ExtractProductId(userQuery) }
-                    });
+        //         case "content_generation":
+        //             return await _mcpClient.CallTool("generateproductdescription", new Dictionary<string, object>
+        //             {
+        //                 { "productId", ExtractProductId(userQuery) }
+        //             });
 
-                case "order_status":
-                    return await _mcpClient.CallTool("checkorderstatus", new Dictionary<string, object>
-                    {
-                        { "orderId", ExtractOrderId(userQuery) }
-                    });
+        //         case "order_status":
+        //             return await _mcpClient.CallTool("checkorderstatus", new Dictionary<string, object>
+        //             {
+        //                 { "orderId", ExtractOrderId(userQuery) }
+        //             });
 
-                default:
-                    // Trường hợp không xác định được yêu cầu cụ thể
-                    return new { message = "Không xác định được yêu cầu. Vui lòng thử lại với câu hỏi cụ thể hơn." };
-            }
-        }
+        //         default:
+        //             // Trường hợp không xác định được yêu cầu cụ thể
+        //             return new { message = "Không xác định được yêu cầu. Vui lòng thử lại với câu hỏi cụ thể hơn." };
+        //     }
+        // }
 
         // Các phương thức hỗ trợ trích xuất dữ liệu từ câu hỏi
         private async Task<string> ExtractSearchQuery(string userQuery)

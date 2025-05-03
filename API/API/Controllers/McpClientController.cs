@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using API.MCP;
+using Microsoft.Extensions.Logging;
 
 namespace API.Controllers
 {
@@ -14,6 +15,21 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class McpClientController : ControllerBase
     {
+        private readonly ILogger<McpClientController> _logger;
+        private readonly HttpClient _httpClient;
+        private readonly IMcpClient _mcpClient;
+        private readonly McpClient _client;
+
+        public McpClientController(ILogger<McpClientController> logger, HttpClient httpClient, IMcpClient mcpClient, McpClient client)
+        {
+            _logger = logger;
+            _httpClient = httpClient;
+            _mcpClient = mcpClient;
+            _client = client;
+        }
+
+        // Comment out unused endpoints
+        /*
         [HttpGet("market-trends")]
         public async Task<IActionResult> GetMarketTrends([FromQuery] int daysLookback = 30)
         {
@@ -79,29 +95,41 @@ namespace API.Controllers
                 return StatusCode(500, new { success = false, error = ex.Message });
             }
         }
+        */
 
-        [HttpGet("list-tools")]
-        public async Task<IActionResult> ListTools()
-        {
-            try
-            {
-                // Create client that connects to local MCP server
-                var mcpClient = await ConnectToMcpServer();
+        // [HttpGet("list-tools")]
+        // public async Task<IActionResult> ListTools()
+        // {
+        //     try
+        //     {
+        //         var tools = await _client.ListAvailableTools();
+        //         return Ok(tools);
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         _logger.LogError(ex, "Error listing tools");
+        //         return StatusCode(500, new { error = "Internal server error" });
+        //     }
+        // }
 
-                // Create wrapper for convenience
-                var client = new McpClient(mcpClient);
+        // [HttpPost("ask")]
+        // public async Task<IActionResult> Ask([FromBody] ChatRequest request)
+        // {
+        //     try
+        //     {
+        //         var tools = await _client.ListAvailableTools();
+        //         var response = await _client.AskWithTools(request.Message, tools);
+        //         return Ok(new { response });
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         _logger.LogError(ex, "Error processing chat request");
+        //         return StatusCode(500, new { error = "Internal server error" });
+        //     }
+        // }
 
-                // List available tools
-                var tools = await client.ListAvailableTools();
-                
-                return Ok(new { success = true, tools });
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { success = false, error = ex.Message });
-            }
-        }
-
+        // Comment out unused method
+        /*
         private async Task<IMcpClient> ConnectToMcpServer()
         {
             // Create a transport that uses stdio to communicate with a local MCP server
@@ -115,5 +143,11 @@ namespace API.Controllers
             var transport = new StdioClientTransport(transportOptions);
             return await McpClientFactory.CreateAsync(transport);
         }
+        */
     }
+
+    // public class ChatRequest
+    // {
+    //     public string Message { get; set; }
+    // }
 } 

@@ -118,18 +118,12 @@
   },
   {
     "ContainingType": "API.Controllers.AIController",
-    "Method": "ProcessQuery",
+    "Method": "GetHelp",
     "RelativePath": "api/AI/query",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "API.Controllers.UserQueryRequest",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -515,6 +509,22 @@
       {
         "Name": "json",
         "Type": "API.Models.Cart",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ChatController",
+    "Method": "Ask",
+    "RelativePath": "api/Chat/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API.Controllers.ChatRequest",
         "IsRequired": true
       }
     ],
@@ -1346,69 +1356,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.McpClientController",
-    "Method": "ListTools",
-    "RelativePath": "api/McpClient/list-tools",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.McpClientController",
-    "Method": "GetMarketTrends",
-    "RelativePath": "api/McpClient/market-trends",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "daysLookback",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.McpClientController",
-    "Method": "GetProductCorrelations",
-    "RelativePath": "api/McpClient/product-correlations",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "topCount",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "daysLookback",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.McpClientController",
-    "Method": "GetSeasonalTrends",
-    "RelativePath": "api/McpClient/seasonal-trends",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "monthsLookback",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
     "ReturnTypes": []
   },
   {

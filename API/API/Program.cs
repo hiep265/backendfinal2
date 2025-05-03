@@ -19,6 +19,8 @@ using API.MCP.Tools;
 using API.MCP;
 using ModelContextProtocol.Client;
 using ModelContextProtocol.Protocol.Transport;
+using ModelContextProtocol.Server;
+using API.MCP.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,38 +35,39 @@ builder.Services.AddApplicationServices(builder.Configuration);
 builder.Services.AddIdentityServices(builder.Configuration);
 
 // Configure MCP using extension methods from McpToolsExtension
-builder.Services.AddAllMcpTools(builder.Configuration);
+// builder.Services.AddAllMcpTools(builder.Configuration);
 
 // Add AI Services from extension method
 // builder.Services.AddAIServices(builder.Configuration);
 
-// Register McpClient
-builder.Services.AddScoped<IMcpClient>(provider => {
-    // Create a transport that uses stdio to communicate with a local MCP server
-    var transportOptions = new StdioClientTransportOptions
+// Add HttpClient
+builder.Services.AddHttpClient();
+
+// Add DbContext
+builder.Services.AddDbContext<DPContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Add MCP services
+builder.Services.AddScoped<IInventoryTool, McpClient>();
+builder.Services.AddScoped<InventoryService>();
+
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", builder =>
     {
-        Name = "McpServer",
-        Command = "dotnet",
-        Arguments = new[] { "run", "--project", "../API/API" }
-    };
-        
-    var transport = new StdioClientTransport(transportOptions);
-    return McpClientFactory.CreateAsync(transport).GetAwaiter().GetResult();
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
 });
 
-// Register McpClient wrapper
-builder.Services.AddScoped<API.MCP.McpClient>();
-
-// Add CORS policy
-builder.Services.AddCors(opt =>
+// Add logging
+builder.Logging.AddConsole(options =>
 {
-    opt.AddPolicy("CorsPolicy", policy =>
-    {
-        policy.AllowAnyHeader()
-              .AllowAnyMethod()
-              .AllowCredentials()
-              .SetIsOriginAllowed(_ => true); // Cho phép tất cả nguồn kể cả localhost
-    });
+    options.IncludeScopes = true;
+    options.TimestampFormat = "HH:mm:ss ";
+    options.LogToStandardErrorThreshold = LogLevel.Trace;
 });
 
 var app = builder.Build();
@@ -88,7 +91,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 // Cho phép CORS
-app.UseCors("CorsPolicy");
+app.UseCors("AllowAll");
 
 app.UseAuthentication();
 app.UseAuthorization();

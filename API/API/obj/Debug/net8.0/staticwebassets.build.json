@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZkXxXT+OgEFrZWxbGH6qv4EaDam47z3YFYoFW4dms4A=",
+  "Hash": "62SvvOVelweZjwrtnGPQk8MkOntk6dnepU3Mwfdz7rA=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\animate.css",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\animate.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/animate#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\fontawesome.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/fontawesome#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\style.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\themify-icons.css",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\themify-icons.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/css/themify-icons#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,115 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\themify-icons.css"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.eot",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pz0qgnv39v",
-      "Integrity": "e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
-    },
-    {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wxwxrej6pw",
-      "Integrity": "/DeCMvna1QCJCqngvdAwpT0vMX1Rc5OjuRQAtN3OTHw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
-    },
-    {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "yex6mt8az7",
-      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
-    },
-    {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "eyrbpue749",
-      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
-    },
-    {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "2hr3gl3r5x",
-      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/fonts/FontAwesome#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -248,10 +143,115 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz0qgnv39v",
+      "Integrity": "e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxwxrej6pw",
+      "Integrity": "/DeCMvna1QCJCqngvdAwpT0vMX1Rc5OjuRQAtN3OTHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg1.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/bg1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bg1.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg2.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/bg2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bg2.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg3.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/bg3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bg3.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg4.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg4.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/bg4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bg4.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bgback.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bgback.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/bgback#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bgback.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\favicon.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\favicon.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\invoice.svg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\invoice.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/invoice#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\invoice.svg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\shape.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\shape.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/shape#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\shape.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\sign.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\sign.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/sign#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sign.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-blog/Đàm Thu Trang có 2 công thức cứ xài đi xài lại#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-blog/Đàm Thu Trang có 2 công thức cứ xài đi xài lại0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-blog/Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-blog/Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-blog/Thiết kế của Kim Kardashian thu một triệu USD trong một phút3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo ba lỗ1#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo ba lỗ2#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo ba lỗ3#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Cotton Compact Prime-Everyday53#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Cotton Compact Prime-Everyday54#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo FEAER 11#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo FEAER 12#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo FEAER 13#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Hoodie43#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Hoodie44#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie45.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie45.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Hoodie45#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Hoodie45.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo khoác bò 0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo khoác bò 1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo khoác nữ 3 trong 149#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo khoác nữ 3 trong 150#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo khoác nữ 3 trong 151#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo khoác nữ 3 trong 152#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo SIGNATURE0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo SIGNATURE1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo SIGNATURE2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo sơ mi thun lạnh Broker 0#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo thun Highclub Basic Tee41#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo thun Highclub Basic Tee42#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo thun HOTTREND17#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo thun HOTTREND18#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo thun HOTTREND19#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Thun Missout BUNNY&BEAR TEE37#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Thun Missout BUNNY&BEAR TEE38#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Thun Nam Thể Thao39#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Áo Thun Nam Thể Thao40#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Đồng hồ Nữ Army0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Đồng hồ Nữ Army1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giày AF1 trắng32#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giày AF1 trắng33#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giày AF1 trắng34#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giây lưng thắt lưng nam 20#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giây lưng thắt lưng nam 21#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giày thể thao nữ CV classic22#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giày thể thao nữ CV classic23#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Giày thể thao nữ CV classic24#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Quần Short Hàn Quốc46#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Quần Short Hàn Quốc47#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Quần Short Hàn Quốc48#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short0.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short0.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Quần short0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Quần short0.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short1.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/list-image-product/Quần short1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\list-image-product\\Quần short1.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\user\\noimage.jpg",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\user\\noimage.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/user/noimage#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\user\\noimage.jpg"
     },
     {
-      "Identity": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1574,7 +1574,7 @@
   "Endpoints": [
     {
       "Route": "assets/css/animate.6zbyk02fjj.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\animate.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\animate.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1595,7 +1595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1619,7 +1619,7 @@
     },
     {
       "Route": "assets/css/animate.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\animate.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\animate.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1640,7 +1640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1656,7 +1656,7 @@
     },
     {
       "Route": "assets/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1677,7 +1677,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1693,7 +1693,7 @@
     },
     {
       "Route": "assets/css/bootstrap.j1kwptc2we.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1714,7 +1714,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1738,7 +1738,7 @@
     },
     {
       "Route": "assets/css/fontawesome.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\fontawesome.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\fontawesome.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1759,7 +1759,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1775,7 +1775,7 @@
     },
     {
       "Route": "assets/css/fontawesome.rm65o2i3qf.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\fontawesome.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\fontawesome.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1796,7 +1796,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1820,7 +1820,7 @@
     },
     {
       "Route": "assets/css/style.c9cqc3bs9m.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\style.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1841,7 +1841,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1865,7 +1865,7 @@
     },
     {
       "Route": "assets/css/style.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\style.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1886,7 +1886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1902,7 +1902,7 @@
     },
     {
       "Route": "assets/css/themify-icons.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\themify-icons.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\themify-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1923,7 +1923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1939,7 +1939,7 @@
     },
     {
       "Route": "assets/css/themify-icons.em5pqaf8f6.css",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\css\\themify-icons.css",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\css\\themify-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1960,7 +1960,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1983,8 +1983,90 @@
       ]
     },
     {
+      "Route": "assets/fonts/FontAwesome.otf",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/FontAwesome.sgabxu717i.otf",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgabxu717i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/FontAwesome.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
+        }
+      ]
+    },
+    {
       "Route": "assets/fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2005,7 +2087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2029,7 +2111,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.eot",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2050,7 +2132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2066,7 +2148,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.eyrbpue749.woff",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2087,7 +2169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2111,7 +2193,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.pz0qgnv39v.eot",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2132,7 +2214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2156,7 +2238,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.svg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2177,7 +2259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2193,7 +2275,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.ttf",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2214,7 +2296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2230,7 +2312,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.woff",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2251,7 +2333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2267,7 +2349,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.woff2",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2288,7 +2370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2304,7 +2386,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.wxwxrej6pw.svg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2325,7 +2407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2349,7 +2431,7 @@
     },
     {
       "Route": "assets/fonts/fontawesome-webfont.yex6mt8az7.ttf",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2370,7 +2452,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2393,90 +2475,8 @@
       ]
     },
     {
-      "Route": "assets/fonts/FontAwesome.otf",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134808"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/otf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
-        }
-      ]
-    },
-    {
-      "Route": "assets/fonts/FontAwesome.sgabxu717i.otf",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\fonts\\FontAwesome.otf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134808"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/otf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sgabxu717i"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/fonts/FontAwesome.otf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU="
-        }
-      ]
-    },
-    {
       "Route": "assets/images/bg.ihhtkycmiq.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2497,7 +2497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2521,7 +2521,7 @@
     },
     {
       "Route": "assets/images/bg.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2542,7 +2542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2558,7 +2558,7 @@
     },
     {
       "Route": "assets/images/bg1.a8wg5ofbgt.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2579,7 +2579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2603,7 +2603,7 @@
     },
     {
       "Route": "assets/images/bg1.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2624,7 +2624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2640,7 +2640,7 @@
     },
     {
       "Route": "assets/images/bg2.aouo0buwid.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg2.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2661,7 +2661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2685,7 +2685,7 @@
     },
     {
       "Route": "assets/images/bg2.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg2.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2706,7 +2706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2722,7 +2722,7 @@
     },
     {
       "Route": "assets/images/bg3.8egh9hdwx8.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg3.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2743,7 +2743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2767,7 +2767,7 @@
     },
     {
       "Route": "assets/images/bg3.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg3.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2788,7 +2788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2804,7 +2804,7 @@
     },
     {
       "Route": "assets/images/bg4.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg4.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2825,7 +2825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2841,7 +2841,7 @@
     },
     {
       "Route": "assets/images/bg4.n5zha6b3ll.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bg4.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bg4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2862,7 +2862,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2886,7 +2886,7 @@
     },
     {
       "Route": "assets/images/bgback.2uejjoqbof.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bgback.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bgback.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2907,7 +2907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2931,7 +2931,7 @@
     },
     {
       "Route": "assets/images/bgback.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\bgback.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\bgback.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2952,7 +2952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2968,7 +2968,7 @@
     },
     {
       "Route": "assets/images/favicon.0iefrarjla.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\favicon.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2989,7 +2989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
     },
     {
       "Route": "assets/images/favicon.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\favicon.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3034,7 +3034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3050,7 +3050,7 @@
     },
     {
       "Route": "assets/images/invoice.ns6qsa6tf7.svg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\invoice.svg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\invoice.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3071,7 +3071,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3095,7 +3095,7 @@
     },
     {
       "Route": "assets/images/invoice.svg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\invoice.svg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\invoice.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3116,7 +3116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3132,7 +3132,7 @@
     },
     {
       "Route": "assets/images/logo.j7n7orj83v.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3153,7 +3153,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3177,7 +3177,7 @@
     },
     {
       "Route": "assets/images/logo.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3198,7 +3198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3214,7 +3214,7 @@
     },
     {
       "Route": "assets/images/shape.hjazywh3py.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\shape.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\shape.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3235,7 +3235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3259,7 +3259,7 @@
     },
     {
       "Route": "assets/images/shape.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\shape.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\shape.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3280,7 +3280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3296,7 +3296,7 @@
     },
     {
       "Route": "assets/images/sign.fv7uqq3eq8.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\sign.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\sign.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3317,7 +3317,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3341,7 +3341,7 @@
     },
     {
       "Route": "assets/images/sign.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\assets\\images\\sign.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\assets\\images\\sign.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3362,7 +3362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3378,7 +3378,7 @@
     },
     {
       "Route": "Images/list-image-blog/Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3399,7 +3399,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3415,7 +3415,7 @@
     },
     {
       "Route": "Images/list-image-blog/Đàm Thu Trang có 2 công thức cứ xài đi xài lại.5ipweew5fc",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3436,7 +3436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3460,7 +3460,7 @@
     },
     {
       "Route": "Images/list-image-blog/Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.0uv89p4mxl.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3481,7 +3481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3505,7 +3505,7 @@
     },
     {
       "Route": "Images/list-image-blog/Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Đàm Thu Trang có 2 công thức cứ xài đi xài lại0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3526,7 +3526,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3542,7 +3542,7 @@
     },
     {
       "Route": "Images/list-image-blog/Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.awpp50y5b8.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3563,7 +3563,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3587,7 +3587,7 @@
     },
     {
       "Route": "Images/list-image-blog/Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20221.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3608,7 +3608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3624,7 +3624,7 @@
     },
     {
       "Route": "Images/list-image-blog/Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.k5lktvmg9z.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3645,7 +3645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3669,7 +3669,7 @@
     },
     {
       "Route": "Images/list-image-blog/Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Điểm nhấn của bộ sưu tập Louis Vuitton Cruise 20222.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3690,7 +3690,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3706,7 +3706,7 @@
     },
     {
       "Route": "Images/list-image-blog/Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3727,7 +3727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3743,7 +3743,7 @@
     },
     {
       "Route": "Images/list-image-blog/Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.v16i2glsyx.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-blog\\Thiết kế của Kim Kardashian thu một triệu USD trong một phút3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3764,7 +3764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3788,7 +3788,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo ba lỗ1.e48rn2c649.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3809,7 +3809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3833,7 +3833,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo ba lỗ1.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ1.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3854,7 +3854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3870,7 +3870,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo ba lỗ2.hfn3ser2xp.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3891,7 +3891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3915,7 +3915,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo ba lỗ2.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ2.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3936,7 +3936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3952,7 +3952,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo ba lỗ3.20c7a2pddc.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3973,7 +3973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3997,7 +3997,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo ba lỗ3.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo ba lỗ3.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4018,7 +4018,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4034,7 +4034,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Cotton Compact Prime-Everyday53.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4055,7 +4055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4071,7 +4071,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Cotton Compact Prime-Everyday53.zi8gr63lak.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday53.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4092,7 +4092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4116,7 +4116,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Cotton Compact Prime-Everyday54.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4137,7 +4137,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4153,7 +4153,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Cotton Compact Prime-Everyday54.louzs9aqc4.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Cotton Compact Prime-Everyday54.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4174,7 +4174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4198,7 +4198,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo FEAER 11.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4219,7 +4219,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4235,7 +4235,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo FEAER 11.xlt1xu5agw.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4256,7 +4256,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4280,7 +4280,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo FEAER 12.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4301,7 +4301,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4317,7 +4317,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo FEAER 12.mzmd2o9gai.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4338,7 +4338,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4362,7 +4362,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo FEAER 13.8up4bmf5g7.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4383,7 +4383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4407,7 +4407,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo FEAER 13.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo FEAER 13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4428,7 +4428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4444,7 +4444,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Hoodie43.h1impgjgs4.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4465,7 +4465,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4489,7 +4489,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Hoodie43.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie43.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4510,7 +4510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4526,7 +4526,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Hoodie44.1bugb7bm5v.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4547,7 +4547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4571,7 +4571,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Hoodie44.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie44.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4592,7 +4592,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4608,7 +4608,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Hoodie45.dxk8bq8nxz.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie45.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie45.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4629,7 +4629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4653,7 +4653,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Hoodie45.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie45.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Hoodie45.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4674,7 +4674,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4690,7 +4690,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác bò 0.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4711,7 +4711,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4727,7 +4727,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác bò 0.u8hr9ppnz3.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4748,7 +4748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4772,7 +4772,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác bò 1.7qd1omw3dd.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4793,7 +4793,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4817,7 +4817,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác bò 1.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác bò 1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4838,7 +4838,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4854,7 +4854,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 149.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4875,7 +4875,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4891,7 +4891,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 149.vjzd76l4px.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 149.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4912,7 +4912,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4936,7 +4936,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 150.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4957,7 +4957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4973,7 +4973,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 150.rphdd7nch1.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 150.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4994,7 +4994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5018,7 +5018,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 151.3dwi1xtjfx.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5039,7 +5039,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5063,7 +5063,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 151.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 151.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5084,7 +5084,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5100,7 +5100,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 152.4fjkkhh7eq.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5121,7 +5121,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5145,7 +5145,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo khoác nữ 3 trong 152.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo khoác nữ 3 trong 152.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5166,7 +5166,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5182,7 +5182,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo SIGNATURE0.59a84kzt4v.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5203,7 +5203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5227,7 +5227,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo SIGNATURE0.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5248,7 +5248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5264,7 +5264,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo SIGNATURE1.iz616dczt8.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5285,7 +5285,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5309,7 +5309,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo SIGNATURE1.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5330,7 +5330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5346,7 +5346,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo SIGNATURE2.2qu7cm7smh.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5367,7 +5367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5391,7 +5391,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo SIGNATURE2.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo SIGNATURE2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5412,7 +5412,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5428,7 +5428,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo sơ mi thun lạnh Broker 0.eaw09o2p40.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5449,7 +5449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5473,7 +5473,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo sơ mi thun lạnh Broker 0.png",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo sơ mi thun lạnh Broker 0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5494,7 +5494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5510,7 +5510,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun Highclub Basic Tee41.f3kjiov0bh.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5531,7 +5531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5555,7 +5555,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun Highclub Basic Tee41.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee41.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5576,7 +5576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5592,7 +5592,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun Highclub Basic Tee42.gx7ww54inx.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5613,7 +5613,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5637,7 +5637,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun Highclub Basic Tee42.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun Highclub Basic Tee42.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5658,7 +5658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5674,7 +5674,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun HOTTREND17.iz616dczt8.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5695,7 +5695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5719,7 +5719,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun HOTTREND17.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND17.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5740,7 +5740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5756,7 +5756,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun HOTTREND18.2qu7cm7smh.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5777,7 +5777,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5801,7 +5801,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun HOTTREND18.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND18.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5822,7 +5822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5838,7 +5838,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun HOTTREND19.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5859,7 +5859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5875,7 +5875,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo thun HOTTREND19.k2m2h9xqda.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo thun HOTTREND19.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5896,7 +5896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5920,7 +5920,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Missout BUNNY&BEAR TEE37.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5941,7 +5941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5957,7 +5957,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Missout BUNNY&BEAR TEE37.k2m2h9xqda.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE37.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5978,7 +5978,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6002,7 +6002,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Missout BUNNY&BEAR TEE38.en2jkg3jxp.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6023,7 +6023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6047,7 +6047,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Missout BUNNY&BEAR TEE38.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Missout BUNNY&BEAR TEE38.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6068,7 +6068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6084,7 +6084,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Nam Thể Thao39.41ta765p5l.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6105,7 +6105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6129,7 +6129,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Nam Thể Thao39.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao39.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6150,7 +6150,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6166,7 +6166,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Nam Thể Thao40.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6187,7 +6187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6203,7 +6203,7 @@
     },
     {
       "Route": "Images/list-image-product/Áo Thun Nam Thể Thao40.qulnpuuri4.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Áo Thun Nam Thể Thao40.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6224,7 +6224,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6248,7 +6248,7 @@
     },
     {
       "Route": "Images/list-image-product/Đồng hồ Nữ Army0.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6269,7 +6269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6285,7 +6285,7 @@
     },
     {
       "Route": "Images/list-image-product/Đồng hồ Nữ Army0.lxgraluqq2.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6306,7 +6306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6330,7 +6330,7 @@
     },
     {
       "Route": "Images/list-image-product/Đồng hồ Nữ Army1.3t9sk3eofo.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6351,7 +6351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6375,7 +6375,7 @@
     },
     {
       "Route": "Images/list-image-product/Đồng hồ Nữ Army1.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Đồng hồ Nữ Army1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6396,7 +6396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6412,7 +6412,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày AF1 trắng32.0assbkwnx5.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6433,7 +6433,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6457,7 +6457,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày AF1 trắng32.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng32.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6478,7 +6478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6494,7 +6494,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày AF1 trắng33.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6515,7 +6515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6531,7 +6531,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày AF1 trắng33.kmt00ms6wr.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng33.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6552,7 +6552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6576,7 +6576,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày AF1 trắng34.jc6t5luh2t.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6597,7 +6597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6621,7 +6621,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày AF1 trắng34.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày AF1 trắng34.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6642,7 +6642,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6658,7 +6658,7 @@
     },
     {
       "Route": "Images/list-image-product/Giây lưng thắt lưng nam 20.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6679,7 +6679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6695,7 +6695,7 @@
     },
     {
       "Route": "Images/list-image-product/Giây lưng thắt lưng nam 20.ola4nq3ukq.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 20.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6716,7 +6716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6740,7 +6740,7 @@
     },
     {
       "Route": "Images/list-image-product/Giây lưng thắt lưng nam 21.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6761,7 +6761,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6777,7 +6777,7 @@
     },
     {
       "Route": "Images/list-image-product/Giây lưng thắt lưng nam 21.tc38vl8e4w.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giây lưng thắt lưng nam 21.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6798,7 +6798,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6822,7 +6822,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày thể thao nữ CV classic22.cdn7ys73vc.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6843,7 +6843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6867,7 +6867,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày thể thao nữ CV classic22.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic22.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6888,7 +6888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6904,7 +6904,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày thể thao nữ CV classic23.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6925,7 +6925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6941,7 +6941,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày thể thao nữ CV classic23.kzscz4bfxc.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic23.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6962,7 +6962,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6986,7 +6986,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày thể thao nữ CV classic24.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7007,7 +7007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7023,7 +7023,7 @@
     },
     {
       "Route": "Images/list-image-product/Giày thể thao nữ CV classic24.jr5ad1ey15.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Giày thể thao nữ CV classic24.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7044,7 +7044,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7068,7 +7068,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần Short Hàn Quốc46.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7089,7 +7089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7105,7 +7105,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần Short Hàn Quốc46.u80du6ctyg.jfif",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc46.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7126,7 +7126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7150,7 +7150,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần Short Hàn Quốc47.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7171,7 +7171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7187,7 +7187,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần Short Hàn Quốc47.uzi0gptnkq.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc47.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7208,7 +7208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7232,7 +7232,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần Short Hàn Quốc48.i8bc1zny3v.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7253,7 +7253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7277,7 +7277,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần Short Hàn Quốc48.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần Short Hàn Quốc48.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7298,7 +7298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7314,7 +7314,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần short0.dsnz8dlbb9.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7335,7 +7335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7359,7 +7359,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần short0.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short0.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7380,7 +7380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7396,7 +7396,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần short1.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7417,7 +7417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7433,7 +7433,7 @@
     },
     {
       "Route": "Images/list-image-product/Quần short1.r2l0h2f1dj.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short1.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\list-image-product\\Quần short1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7454,7 +7454,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7478,7 +7478,7 @@
     },
     {
       "Route": "Images/user/noimage.eiuf90oz5l.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\user\\noimage.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\user\\noimage.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7499,7 +7499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7523,7 +7523,7 @@
     },
     {
       "Route": "Images/user/noimage.jpg",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\Images\\user\\noimage.jpg",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\Images\\user\\noimage.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7544,7 +7544,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 18:54:43 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7560,7 +7560,7 @@
     },
     {
       "Route": "index.8ub7aj4yoc.html",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7581,7 +7581,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 19:38:30 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7605,7 +7605,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7626,7 +7626,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 19:38:30 GMT"
+          "Value": "Fri, 02 May 2025 10:50:36 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bahie\\OneDrive\\Desktop\\APINew\\API\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\mcp\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\mcp\\mcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\mcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\mcp\\services\\llmmcpserverexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\services\\llmmcpserverexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\mcp\\iinventorytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\iinventorytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\mcp\\airequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\mcp\\airequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|c:\\users\\admin\\desktop\\backendfinal2\\api\\api\\controllers\\mcpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE7B4A-6362-4718-ADAD-3855D5392D15}|API\\API.csproj|solutionrelative:api\\controllers\\mcpclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\Services\\InventoryService.cs",
+              "RelativeToolTip": "API\\MCP\\Services\\InventoryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:43:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LLMMcpServerExchange.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "RelativeToolTip": "API\\MCP\\Services\\LLMMcpServerExchange.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:03:13.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInventoryTool.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\IInventoryTool.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\IInventoryTool.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\IInventoryTool.cs",
+              "RelativeToolTip": "API\\MCP\\IInventoryTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:42:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "API\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAWwFEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:06:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "McpClient.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\McpClient.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\McpClient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\McpClient.cs",
+              "RelativeToolTip": "API\\MCP\\McpClient.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:02:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AIRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\AIRequestHandler.cs",
+              "RelativeDocumentMoniker": "API\\MCP\\AIRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\MCP\\AIRequestHandler.cs",
+              "RelativeToolTip": "API\\MCP\\AIRequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:42:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "McpClientController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\Controllers\\McpClientController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\McpClientController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\backendfinal2\\API\\API\\Controllers\\McpClientController.cs",
+              "RelativeToolTip": "API\\Controllers\\McpClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:38:20.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

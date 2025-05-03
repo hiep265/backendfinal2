@@ -20,18 +20,18 @@ namespace API.Controllers
         }
 
         [HttpPost("query")]
-        public async Task<IActionResult> ProcessQuery([FromBody] UserQueryRequest request)
-        {
-            try
-            {
-                var result = await _aiHandler.ProcessUserRequest(request.Query);
-                return Ok(new { success = true, result });
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { success = false, error = ex.Message });
-            }
-        }
+        // public async Task<IActionResult> ProcessQuery([FromBody] UserQueryRequest request)
+        // {
+        //     try
+        //     {
+        //         var result = await _aiHandler.ProcessUserRequest(request.Query);
+        //         return Ok(new { success = true, result });
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         return StatusCode(500, new { success = false, error = ex.Message });
+        //     }
+        // }
         
         // Cung cấp trợ giúp về cách sử dụng API AI
         [HttpGet("help")]

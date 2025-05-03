@@ -1,150 +1,31 @@
-using ModelContextProtocol;
-using ModelContextProtocol.Client;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
+using System.Net.Http;
+using API.MCP.Services;
 
 namespace API.MCP
 {
-    public class McpClient
+    public class McpClient : IInventoryTool
     {
-        private readonly IMcpClient _client;
+        private readonly HttpClient _httpClient;
+        private readonly InventoryService _inventoryService;
 
-        public McpClient(IMcpClient client)
+        public McpClient(HttpClient httpClient, InventoryService inventoryService)
         {
-            _client = client;
+            _httpClient = httpClient;
+            _inventoryService = inventoryService;
         }
 
-        public async Task<IList<McpClientTool>> ListAvailableTools()
+        public async Task<string> CheckInventoryAsync(string productName)
         {
             try
             {
-                return await _client.ListToolsAsync();
+                var stock = await _inventoryService.CheckStockAsync(productName);
+                return $"Sản phẩm {productName} còn {stock} cái trong kho.";
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error listing tools: {ex.Message}");
-                return Array.Empty<McpClientTool>();
-            }
-        }
-
-        public async Task<dynamic> CallTool(string toolName, Dictionary<string, object> parameters)
-        {
-            try
-            {
-                return await _client.CallToolAsync(toolName, parameters);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error calling tool {toolName}: {ex.Message}");
-                throw;
-            }
-        }
-
-        // Example method for market analysis
-        public async Task<string> AnalyzeMarketTrends(int daysLookback = 30)
-        {
-            try
-            {
-                var result = await CallTool("analyzeproducttrends", new Dictionary<string, object>
-                {
-                    { "daysLookback", daysLookback }
-                });
-
-                // Extract the text content from the response
-                if (result.Content != null && result.Content.Count > 0)
-                {
-                    foreach (var content in result.Content)
-                    {
-                        if (content.GetType().Name.Contains("Text"))
-                        {
-                            // Use reflection to safely get the Text property
-                            var textProperty = content.GetType().GetProperty("Text");
-                            if (textProperty != null)
-                            {
-                                return textProperty.GetValue(content)?.ToString() ?? "";
-                            }
-                        }
-                    }
-                }
-
-                return "No content returned from analysis";
-            }
-            catch (Exception ex)
-            {
-                return $"Failed to analyze market trends: {ex.Message}";
-            }
-        }
-
-        // Example method for seasonal trends
-        public async Task<string> AnalyzeSeasonalTrends(int monthsLookback = 12)
-        {
-            try
-            {
-                var result = await CallTool("analyzeseasonaltrends", new Dictionary<string, object>
-                {
-                    { "monthsLookback", monthsLookback }
-                });
-
-                // Extract the text content from the response
-                if (result.Content != null && result.Content.Count > 0)
-                {
-                    foreach (var content in result.Content)
-                    {
-                        if (content.GetType().Name.Contains("Text"))
-                        {
-                            // Use reflection to safely get the Text property
-                            var textProperty = content.GetType().GetProperty("Text");
-                            if (textProperty != null)
-                            {
-                                return textProperty.GetValue(content)?.ToString() ?? "";
-                            }
-                        }
-                    }
-                }
-
-                return "No content returned from seasonal analysis";
-            }
-            catch (Exception ex)
-            {
-                return $"Failed to analyze seasonal trends: {ex.Message}";
-            }
-        }
-
-        // Example method for product correlation
-        public async Task<string> AnalyzeProductCorrelations(int topCount = 10, int daysLookback = 90)
-        {
-            try
-            {
-                var result = await CallTool("analyzeproductcorrelations", new Dictionary<string, object>
-                {
-                    { "topCount", topCount },
-                    { "daysLookback", daysLookback }
-                });
-
-                // Extract the text content from the response
-                if (result.Content != null && result.Content.Count > 0)
-                {
-                    foreach (var content in result.Content)
-                    {
-                        if (content.GetType().Name.Contains("Text"))
-                        {
-                            // Use reflection to safely get the Text property
-                            var textProperty = content.GetType().GetProperty("Text");
-                            if (textProperty != null)
-                            {
-                                return textProperty.GetValue(content)?.ToString() ?? "";
-                            }
-                        }
-                    }
-                }
-
-                return "No content returned from correlation analysis";
-            }
-            catch (Exception ex)
-            {
-                return $"Failed to analyze product correlations: {ex.Message}";
+                return $"Xin lỗi, có lỗi xảy ra khi kiểm tra tồn kho: {ex.Message}";
             }
         }
     }
